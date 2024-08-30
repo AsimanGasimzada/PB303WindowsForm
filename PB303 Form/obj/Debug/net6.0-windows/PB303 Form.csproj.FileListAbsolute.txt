@@ -1,0 +1,16 @@
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\bin\Debug\net6.0-windows\PB303 Form.exe
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\bin\Debug\net6.0-windows\PB303 Form.deps.json
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\bin\Debug\net6.0-windows\PB303 Form.runtimeconfig.json
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\bin\Debug\net6.0-windows\PB303 Form.dll
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\bin\Debug\net6.0-windows\PB303 Form.pdb
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303_Form.Form1.resources
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.csproj.GenerateResource.cache
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.AssemblyInfoInputs.cache
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.AssemblyInfo.cs
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.csproj.CoreCompileInputs.cache
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.dll
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\refint\PB303 Form.dll
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.pdb
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\PB303 Form.genruntimeconfig.cache
+C:\Users\Asiman\source\repos\PB303 Form\PB303 Form\obj\Debug\net6.0-windows\ref\PB303 Form.dll

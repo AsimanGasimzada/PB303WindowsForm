@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB303 Form", "PB303 Form\PB303 Form.csproj", "{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67734F69-054C-4522-9A41-7C58067465DC}
+	EndGlobalSection
+EndGlobal

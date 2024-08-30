@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\PB303 Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}|PB303 Form\\PB303 Form.csproj|c:\\users\\asiman\\source\\repos\\pb303 form\\pb303 form\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}|PB303 Form\\PB303 Form.csproj|solutionrelative:pb303 form\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}|PB303 Form\\PB303 Form.csproj|c:\\users\\asiman\\source\\repos\\pb303 form\\pb303 form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}|PB303 Form\\PB303 Form.csproj|solutionrelative:pb303 form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}|PB303 Form\\PB303 Form.csproj|c:\\users\\asiman\\source\\repos\\pb303 form\\pb303 form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A4FE137-ADCF-4F38-97A1-1CC2EB0C5113}|PB303 Form\\PB303 Form.csproj|solutionrelative:pb303 form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303 Form\\PB303 Form\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PB303 Form\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303 Form\\PB303 Form\\Models\\Person.cs*",
+              "RelativeToolTip": "PB303 Form\\Models\\Person.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:34:32.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303 Form\\PB303 Form\\Form1.cs",
+              "RelativeDocumentMoniker": "PB303 Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303 Form\\PB303 Form\\Form1.cs",
+              "RelativeToolTip": "PB303 Form\\Form1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAawC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:27:18.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303 Form\\PB303 Form\\Form1.cs",
+              "RelativeDocumentMoniker": "PB303 Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303 Form\\PB303 Form\\Form1.cs [Design]",
+              "RelativeToolTip": "PB303 Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:26:41.913Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
